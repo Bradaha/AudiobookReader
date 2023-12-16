@@ -1,4 +1,4 @@
-ACCESSIBLE AUDIOBOOK READER 
+ACCESSIBLE PDF AUDIOBOOK READER 
 
 This project I made is to make PDF files easier for people with disabilities to read audiobooks by having a text to speech read it back with subtitles.
 
