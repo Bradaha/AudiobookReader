@@ -11,4 +11,5 @@ Drag and drop functionality.
 HOW TO USE:
 Download the zip file from GitHub and extract it
 Then run the Requirements file 
-Open the application and drag and drop your PDF file.
+Open the application using the Run file
+drag and drop your PDF file.
